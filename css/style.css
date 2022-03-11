@@ -1,10 +1,4 @@
 /* Se precisar de formatações extras, estas deverão estar neste arquivo */
-
 #info, #profile-info,#lblErrorMsg,#label{
     display: none;
 } 
-
-
-/* #info,#lblErrorMsg,#label{
-    display: none;
-} */

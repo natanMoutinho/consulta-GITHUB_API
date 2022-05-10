@@ -13,7 +13,6 @@
 _____________________________________________________________________________________________
 <div>
   <p>This project is a work of the faculty, which consists of creating a researcher consuming the github API on its users</p>
-  <p>The Project will be carried out in HTML, CSS and JavaScript without the use of libraries or frameworks.</p> 
 </div>
 <div>
 </div>
